@@ -75,7 +75,7 @@ using namespace cv;
 */
 /*---------------------------------------------------*/
 
-#define MY_COLOR 2
+#define MY_COLOR 1
 /**
   @brief: 选择己方阵营
   @param: 0     不限制颜色
